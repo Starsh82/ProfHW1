@@ -6,6 +6,7 @@
 Обновить ядро ОС на новейшую стабильную версию из mainline-репозитория.  
 Оформить отчет в README-файле в GitHub-репозитории.  
 
+```
 00:29 # uname -r  
 6.8.0-56-generic
 
@@ -91,3 +92,4 @@ done
 
 starsh@UbuntuTestVirt:~$ uname -r  
 6.14.0-061400-generic
+```
